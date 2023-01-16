@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');
 body {
     background-color: hsl(185, 75%, 39%);
     background-image: url(images/bg-pattern-top.svg), url(images/bg-pattern-top.svg);
@@ -9,6 +10,7 @@ body {
     min-height: 95vh;
     align-items: center;
     justify-content: center;
+    font-family: "Kumbh Sans", sans-serif;
 }
 
 .main {
